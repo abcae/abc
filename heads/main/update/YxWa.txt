@@ -4,9 +4,9 @@
  "expire870":"1000",
  "store":"1",
  "rewards":"",
- "title":"تحديث جديد من VO 🛠️",
- "description":"يجب تحديث النسخة قبل الايقاف 👇.",
- "download":"https://t.me/yxwagroup",
+ "title":"تحديث جديد من  VO 🛠️",
+ "description":"يتوفر تحديث جديد ويتضمن ميزات جديدة وإصلاحات للأخطاء.",
+ "download":"https://t.me/VD_AN",
  "users_premium":"",
  "force":"true"
 }
