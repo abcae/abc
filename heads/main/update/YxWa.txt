@@ -1,0 +1,12 @@
+{
+ "version":"9.25",
+ "expire881":"1000",
+ "expire870":"1000",
+ "store":"1",
+ "rewards":"",
+ "title":"تحديث جديد من VO 🛠️",
+ "description":"يجب تحديث النسخة قبل الايقاف 👇.",
+ "download":"https://t.me/yxwagroup",
+ "users_premium":"",
+ "force":"true"
+}
